@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+    font-size:1.5em;
+}
+button{
+    color:black;
+    background-color:rgba(0, 0, 255, 0.182);
+    font-size:70%;
+    cursor:pointer;
+    margin-top:20px;
+}
+button:hover
+{   background-color:rgba(0, 0, 255, 0.463);
+    color:white
+}
+button:active{
+    background-color:rgb(0, 0, 255);
+    color:white
+}
+#input
+{   text-align:center;
+    font-size:large;
+}
+#resultwithimage img{
+    max-width:100px;
+    max-height:100px;
+    margin:2px;
+}
